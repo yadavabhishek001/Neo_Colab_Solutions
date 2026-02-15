@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Lecture - 9 , code_1
 public class prime_numbers {
     public static void main(String args[]){
         Scanner sc = new Scanner(System.in);
