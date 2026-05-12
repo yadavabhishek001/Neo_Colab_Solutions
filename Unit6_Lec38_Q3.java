@@ -14,6 +14,7 @@ public class Unit6_Lec38_Q3 {
                 "root",
                 "password"
             );
+            
             Statement stmt = conn.createStatement();
 
             ResultSet rs = stmt.executeQuery(sql)
